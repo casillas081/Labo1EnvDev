@@ -1,0 +1,7 @@
+C:\Users\chris\Documents\IG3-2016-2017\Environ. dév. logiciels\Labo1\Labo1Pupil\bin\Debug\Labo1Pupil.exe.config
+C:\Users\chris\Documents\IG3-2016-2017\Environ. dév. logiciels\Labo1\Labo1Pupil\bin\Debug\Labo1Pupil.exe
+C:\Users\chris\Documents\IG3-2016-2017\Environ. dév. logiciels\Labo1\Labo1Pupil\bin\Debug\Labo1Pupil.pdb
+C:\Users\chris\Documents\IG3-2016-2017\Environ. dév. logiciels\Labo1\Labo1Pupil\obj\Debug\Labo1Pupil.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\IG3-2016-2017\Environ. dév. logiciels\Labo1\Labo1Pupil\obj\Debug\Labo1Pupil.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\IG3-2016-2017\Environ. dév. logiciels\Labo1\Labo1Pupil\obj\Debug\Labo1Pupil.exe
+C:\Users\chris\Documents\IG3-2016-2017\Environ. dév. logiciels\Labo1\Labo1Pupil\obj\Debug\Labo1Pupil.pdb
